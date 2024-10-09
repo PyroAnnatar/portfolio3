@@ -34,9 +34,6 @@ const App = () => {
         </a>
       </nav>
       <div className="flex flex-col gap-4 pt-8 h-screen sm:justify-center lg:w-5/6 lg:mx-auto">
-        <a href="#" className="md:hidden inline">
-          <img src="/Hamburger_MD.png" alt="Hammy menu" />
-        </a>
         <h1 className="font-extrabold text-[48px] leading-tight flex flex-col">
           Hello,
           <span>I'm</span>
