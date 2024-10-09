@@ -34,6 +34,9 @@ const App = () => {
         </a>
       </nav>
       <div className="flex flex-col gap-4 pt-8 h-screen sm:justify-center lg:w-5/6 lg:mx-auto">
+        <a href="#" className="md:hidden inline">
+          <img src="/hamburger_MD.png" alt="Hammy menu" />
+        </a>
         <h1 className="font-extrabold text-[48px] leading-tight flex flex-col">
           Hello,
           <span>I'm</span>
@@ -72,7 +75,7 @@ const App = () => {
             </div>
           </div>
         </div>
-        <div className="text-white  text-[18px] font-bold flex gap-6 pt-4 sm:gap-4 z-10">
+        <div className="text-white  text-[18px] font-bold flex gap-2 pt-4 z-10">
           <a href=""></a>
           <button className="bg-black py-2 px-5 rounded-[15px] shadow-[5px_5px_0_rgba(0,198,174,1)] hover:text-[#FFDD55] duration-200">
             <a href="#">Hire me</a>
