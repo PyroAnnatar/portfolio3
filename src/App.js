@@ -182,8 +182,8 @@ const App = () => {
           <h2 className="text-[48px] font-extrabold">Namık Korona</h2>
         </div>
         <p className="text-[40px] font-bold w-2/3 text-center">
-          I work quick and as soon as possible. You'll love my memes, contact me
-          and let's work together.
+          I work at the speed of a mlem. You'll love my memes, contact me and
+          let's work together.
         </p>
         <div className="flex justify-center items-center gap-4">
           <div>
